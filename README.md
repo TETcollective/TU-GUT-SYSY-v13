@@ -12,6 +12,10 @@ Zero free parameters from Planck scale to galaxies.
 **Paper**  
 TU-GUT-SYSY_v13.pdf (in this repo)
 
-**DOI** (coming in 2 min): will be 10.5281/zenodo.xxxxxxx
+**DOI** https://doi.org/10.5281/zenodo.17860979
 
-### Riga pronta per tetcollective.org (copia-incolla quando esce il DOI)
+- **TU-GUT-SYSY v13 – 8 December 2025**  
+  String-theory embedding & UV completion: EM knots on Calabi-Yau as D-brane states. Full theory from Planck to galaxies, zero free parameters.  
+  → [DOI: 10.5281/zenodo.17860979](https://doi.org/10.5281/zenodo.17860979)  
+  → [GitHub v13](https://github.com/TETcollective/TU-GUT-SYSY-v13)  
+  → 50/50 Human–AI
