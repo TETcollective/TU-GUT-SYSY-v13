@@ -1,13 +1,11 @@
 # TU-GUT-SYSY-v13
 String-theory embedding – EM knots on Calabi-Yau as D-brane states
 
-# TU-GUT-SYSY v13 – 8 December 2025
-String-Theory Embedding & UV Completion  
-Electromagnetic knots on Calabi-Yau as D-brane states
+# TU-GUT-SYSY v13 – String-Theory UV Completion
+EM knots on Calabi-Yau → full GUT with zero free parameters
 
-**Key result**  
-All v9–v12 results (ρ_DM = 0.3 GeV/cm³, ΔA = 6ℓ_P², AdS/CFT dual) emerge as low-energy limit of open strings wrapped on knotted 3-cycles.  
-Zero free parameters from Planck scale to galaxies.
+**Notebook**  
+- `borromean_calabi_yau.ipynb` → ΔA = 6ℓ_P² verified
 
 **Paper**  
 TU-GUT-SYSY_v13.pdf (in this repo)
